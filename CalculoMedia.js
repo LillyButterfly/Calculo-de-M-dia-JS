@@ -1,7 +1,9 @@
-//Disciplina: LINGUAGENS DE SCRIPT PARA WEB 
-//Autor: Ingrid Santos
-//Data: 11/05/2022
-//Objetivo: Calcular a média das notas dos alunos
+/*
+Disciplina: LINGUAGENS DE SCRIPT PARA WEB 
+Autor: Ingrid Santos
+Data: 11/05/2022
+Objetivo: Calcular a média das notas dos alunos
+*/
 
 
 let notas = [8,9,10,10];
